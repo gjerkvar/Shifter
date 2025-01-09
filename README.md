@@ -7,9 +7,9 @@ Shifter uses a **relational database** to manage organizations, users, groups, s
 ## Conceptual Data Model
 Below is the **Conceptual Data Model**(Chen's notation) for the Shifter app:
 
-![Conceptual Data Model](database/conceptual_data_model.png)
+![Conceptual Data Model](planning/database/conceptual_data_model.png)
 
 ## Logical Data Model
 Below is the **Logical Data Model**(Crow Foot's notation) for the Shifter app: 
 
-![Logical Data Model](database/logical_data_model.png)
+![Logical Data Model](planning/database/logical_data_model.png)
